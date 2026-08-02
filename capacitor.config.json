@@ -3,7 +3,7 @@
   "appName": "Strofy",
   "webDir": "www",
   "server": {
-    "url": "https://example.com",
+    "url": "https://azawy-iq.github.io/Strofy",
     "cleartext": false
   },
   "plugins": {
