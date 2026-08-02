@@ -1,16 +1,15 @@
 {
-  "appId": "com.yourname.strofy",
+  "appId": "com.strofy.app",
   "appName": "Strofy",
   "webDir": "www",
   "server": {
-    "url": "https://username.github.io/repo-name",
+    "url": "https://azawy-iq.github.io/Strofy/",
     "cleartext": false
   },
   "plugins": {
     "SplashScreen": {
       "launchShowDuration": 2000,
       "backgroundColor": "#0a0a10",
-      "androidSplashResourceName": "splash",
       "showSpinner": false
     }
   }
