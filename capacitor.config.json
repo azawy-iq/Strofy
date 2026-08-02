@@ -1,0 +1,17 @@
+{
+  "appId": "com.yourname.strofy",
+  "appName": "Strofy",
+  "webDir": "www",
+  "server": {
+    "url": "https://username.github.io/repo-name",
+    "cleartext": false
+  },
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 2000,
+      "backgroundColor": "#0a0a10",
+      "androidSplashResourceName": "splash",
+      "showSpinner": false
+    }
+  }
+}
